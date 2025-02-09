@@ -1,0 +1,3 @@
+#!/bin/bash
+
+~/trellogtd/venv/bin/python main.py "$@"
